@@ -19,6 +19,10 @@ app/lib/sortsの各ファイルにて、ソートの実装を行っています�
 
 このリポジトリをクローンしてください。
 
+```bash
+git clone https://github.com/hikaru0816/tech-test-sort.git
+```
+
 ### npmインストール
 
 以下のコマンドを実行してください。
@@ -37,7 +41,7 @@ npm run dev
 
 ### アプリケーションにアクセス
 
-`http://localhost:5173`にアクセスしてください。<br>
+[http://localhost:5173](http://localhost:5173 "技術課題 ソート")にアクセスしてください。<br>
 アクセスすると、以下の画像のように表示されます。
 ![アプリケーションイメージ](image.png)
 
